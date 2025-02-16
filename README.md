@@ -14,18 +14,6 @@ This **Debt Repayment Calculator** helps users **calculate EMI (Equated Monthly 
 ✅ **Financial Advisory**: Warns users if EMIs are too high and suggests refinancing options.
 ✅ **Graphical Insights**: Displays past and predicted interest rate trends.
 
----
-
-## **📚 Table of Contents**
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Demo Output](#demo-output)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-
----
 
 ## **🔨 Installation**
 Ensure you have **Python 3.7+** installed, then install the required libraries:
