@@ -108,5 +108,5 @@ This project is **open-source** and licensed under the **MIT License**.
 ---
 
 ## **🎉 Author**
-Developed by **[Your Name]** | GitHub: [YourUsername](https://github.com/YourUsername)
+Developed by Roshan Tigga | GitHub:
 
